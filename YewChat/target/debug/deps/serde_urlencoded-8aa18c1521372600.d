@@ -1,0 +1,11 @@
+C:\dev\YewChat\target\debug\deps\libserde_urlencoded-8aa18c1521372600.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\de.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\key.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\pair.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\part.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\value.rs
+
+C:\dev\YewChat\target\debug\deps\serde_urlencoded-8aa18c1521372600.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\de.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\key.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\pair.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\part.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\value.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\de.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\key.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\pair.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\part.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_urlencoded-0.7.0\src\ser\value.rs:

@@ -1,0 +1,1 @@
+C:\dev\YewChat\target\wasm32-unknown-unknown\release\yewchat.wasm: C:\dev\YewChat\src\components\chat.rs C:\dev\YewChat\src\components\login.rs C:\dev\YewChat\src\components\mod.rs C:\dev\YewChat\src\lib.rs C:\dev\YewChat\src\services\event_bus.rs C:\dev\YewChat\src\services\mod.rs C:\dev\YewChat\src\services\websocket.rs
